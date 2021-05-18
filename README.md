@@ -34,8 +34,8 @@ Design:
 
 ### Links
 
-- Solution URL: [Click here!](https://www.frontendmentor.io/solutions/single-price-grid-component-flexbox-8h73anjQG)
-- Live Site URL: [Click here!](https://xenodochial-liskov-88bce5.netlify.app/)
+- Solution URL: [Click here!]()
+- Live Site URL: [Click here!](https://silly-agnesi-34387f.netlify.app/)
 
 ## My process
 
