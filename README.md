@@ -1,1 +1,0 @@
-Testimonials grid section.

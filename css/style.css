@@ -55,12 +55,14 @@ body {
     grid-column: 3 / 4; }
   .testimonial-3 {
     background-color: var(--color-primary-white);
-    grid-column: 1 / 2; }
+    grid-column: 1 / 2;
+    box-shadow: 2rem 1.8rem 8.5rem rgba(0, 0, 0, 0.1); }
   .testimonial-4 {
     background-color: var(--color-primary-very-dark-blackish-blue);
     grid-column: 2 / span 2; }
   .testimonial-5 {
     background-color: var(--color-primary-white);
+    box-shadow: 2rem 1.8rem 8.5rem rgba(0, 0, 0, 0.1);
     grid-row: 1 / span 2;
     grid-column: 4 / 5; }
   .testimonial__user {
