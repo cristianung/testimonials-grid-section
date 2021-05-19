@@ -34,7 +34,7 @@ Design:
 
 ### Links
 
-- Solution URL: [Click here!]()
+- Solution URL: [Click here!](https://www.frontendmentor.io/solutions/testimonials-grid-section-solution-jdGXK3SJv)
 - Live Site URL: [Click here!](https://silly-agnesi-34387f.netlify.app/)
 
 ## My process
