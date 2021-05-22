@@ -69,3 +69,5 @@ Design:
 ## Acknowledgments
 
 I thank Matt Studdert for founding this great community of which I have learned so much with each project. 
+
+I thank [@tediko](https://www.frontendmentor.io/profile/tediko) for the recommendation to add a new media query, based on her solution.
